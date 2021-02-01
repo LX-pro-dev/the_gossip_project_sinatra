@@ -8,11 +8,11 @@ The app implements the sinatra framework.
 
 ### Use
 
-$$$ git clone git@github.com:LX-pro-dev/the_gossip_project_sinatra.git
+ 1) git clone git@github.com:LX-pro-dev/the_gossip_project_sinatra.git
 then
-$$$ bundle install
+ 2) bundle install
 and finally
-$$$ shotgun -p 4567
+ 3) shotgun -p 4567
 
 The site works in localhost: http / localhost: 4567
 
